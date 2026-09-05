@@ -1,0 +1,4 @@
+{
+  "name": "3D-Modeling (OpenSCAD)",
+  "install": "sudo apt-get update && sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends openscad openscad-mcad"
+}
